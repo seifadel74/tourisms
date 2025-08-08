@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* Import the theme variables and base styles */
 @import './theme/theme.css';
 
@@ -82,7 +82,7 @@ html {
 }
 
 /* Reduced motion preferences */
-=======
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -123,13 +123,13 @@ html {
 }
 
 /* تحسين الأداء */
->>>>>>> 2589a0280184534f4e19ab80ae72c546f6c9d5a4
+
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
-<<<<<<< HEAD
+
     scroll-behavior: auto !important;
   }
 }
@@ -148,8 +148,7 @@ html {
   
   .no-print {
     display: none !important;
-=======
->>>>>>> 2589a0280184534f4e19ab80ae72c546f6c9d5a4
+
   }
 }
 
@@ -408,3 +407,4 @@ pre, code {
   .dark-mode h5 { font-size: 1rem; }
   .dark-mode h6 { font-size: 0.9rem; }
 }
+
