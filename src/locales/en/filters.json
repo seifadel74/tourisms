@@ -1,0 +1,20 @@
+{
+  "title": "Filters",
+  "reset": "Reset",
+  "apply": "Apply",
+  "priceRange": "Price Range",
+  "min": "Min",
+  "max": "Max",
+  "rating": "Rating",
+  "location": "Location",
+  "locationPlaceholder": "Enter location...",
+  "checkIn": "Check-in",
+  "checkOut": "Check-out",
+  "guests": "Guests",
+  "amenities": "Amenities",
+  "wifi": "WiFi",
+  "pool": "Pool",
+  "parking": "Parking",
+  "restaurant": "Restaurant",
+  "spa": "Spa"
+}

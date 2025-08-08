@@ -1,0 +1,42 @@
+{
+  "home": {
+    "welcome": "Welcome to Our Tourism Website",
+    "subtitle": "Discover amazing destinations and book your next adventure"
+  },
+  "nav": {
+    "home": "Home",
+    "hotels": "Hotels",
+    "yachts": "Yachts",
+    "about": "About Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "profile": "My Profile",
+    "admin": "Admin Dashboard",
+    "logout": "Logout"
+  },
+  "footer": {
+    "tourismWebsite": "Tourism Website",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All rights reserved"
+  },
+  "filters": {
+    "title": "Filters",
+    "reset": "Reset",
+    "apply": "Apply",
+    "priceRange": "Price Range",
+    "min": "Min",
+    "max": "Max",
+    "rating": "Rating",
+    "location": "Location",
+    "locationPlaceholder": "Enter location...",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "amenities": "Amenities",
+    "wifi": "Free WiFi",
+    "pool": "Swimming Pool",
+    "parking": "Free Parking",
+    "restaurant": "Restaurant",
+    "spa": "Spa"
+  }
+}
