@@ -1,0 +1,106 @@
+/* Base Styles */
+.scroll-to-top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
+  z-index: 1000;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(10px);
+}
+
+/* Hover & Active States */
+.scroll-to-top-btn:hover {
+  box-shadow: 0 8px 30px rgba(102, 126, 234, 0.6);
+  transform: translateY(-3px);
+}
+
+.scroll-to-top-btn:active {
+  transform: translateY(-1px);
+}
+
+/* RTL Support */
+[dir="rtl"] .scroll-to-top-btn {
+  right: auto;
+  left: 30px;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  .scroll-to-top-btn {
+    background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+    box-shadow: 0 4px 20px rgba(74, 85, 104, 0.4);
+  }
+  
+  .scroll-to-top-btn:hover {
+    box-shadow: 0 8px 30px rgba(74, 85, 104, 0.6);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .scroll-to-top-btn {
+    bottom: 20px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+  }
+  
+  [dir="rtl"] .scroll-to-top-btn {
+    right: auto;
+    left: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .scroll-to-top-btn {
+    bottom: 15px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  [dir="rtl"] .scroll-to-top-btn {
+    right: auto;
+    left: 15px;
+  }
+}
+
+/* Icon Animation */
+.scroll-to-top-btn svg {
+  transition: transform 0.3s ease;
+}
+
+.scroll-to-top-btn:hover svg {
+  transform: translateY(-2px);
+}
+
+/* Accessibility */
+.scroll-to-top-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.3), 0 4px 20px rgba(102, 126, 234, 0.4);
+}
+
+/* Loading State */
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 4px 20px rgba(102, 126, 234, 0.4);
+  }
+  50% {
+    box-shadow: 0 4px 20px rgba(102, 126, 234, 0.6);
+  }
+}
+
+.scroll-to-top-btn.loading {
+  animation: pulse 2s infinite;
+}
