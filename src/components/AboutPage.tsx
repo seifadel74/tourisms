@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
@@ -445,6 +444,7 @@ const AboutPage: React.FC = () => {
     </div>
   );
 };
+
 
 >>>>>>> 2589a0280184534f4e19ab80ae72c546f6c9d5a4
 export default AboutPage; 
