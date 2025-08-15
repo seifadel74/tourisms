@@ -1,0 +1,417 @@
+{
+  "home": {
+    "welcome": "Welcome to Our Tourism Website",
+    "subtitle": "Discover amazing destinations and book your next adventure",
+    "whyChooseUs": "Why Choose Us?",
+    "ourServices": "Our Services",
+    "excellentService": "Excellent Service",
+    "excellentServiceDesc": "We provide the best services with guaranteed quality and comfort",
+    "competitivePrices": "Competitive Prices",
+    "competitivePricesDesc": "Best prices with exclusive offers and special discounts",
+    "secureBooking": "Secure Booking",
+    "secureBookingDesc": "Safe and guaranteed booking with 24/7 technical support",
+    "hotelBooking": "Hotel Booking",
+    "hotelBookingDesc": "Find and book the best hotels at competitive prices",
+    "yachtBooking": "Yacht Booking",
+    "yachtBookingDesc": "Rent luxury yachts for an unforgettable experience"
+  },
+  "nav": {
+    "home": "Home",
+    "hotels": "Hotels",
+    "yachts": "Yachts",
+    "about": "About Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "profile": "My Profile",
+    "admin": "Admin Dashboard",
+    "logout": "Logout"
+  },
+  "filters": {
+    "title": "Filters",
+    "reset": "Reset",
+    "apply": "Apply",
+    "priceRange": "Price Range",
+    "min": "Min",
+    "max": "Max",
+    "rating": "Rating",
+    "location": "Location",
+    "locationPlaceholder": "Enter location...",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "amenities": "Amenities",
+    "wifi": "Free WiFi",
+    "pool": "Swimming Pool",
+    "parking": "Free Parking",
+    "restaurant": "Restaurant",
+    "spa": "Spa"
+  },
+  "search": {
+    "placeholder": "Search here...",
+    "yachts": "Search for yachts...",
+    "hotels": "Search for hotels...",
+    "noResults": "No results found matching search criteria",
+    "clearFilters": "Clear Filters"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "Auto"
+  },
+  "brand": {
+    "siteName": "Tourism Website"
+  },
+  "forgotPassword": {
+    "title": "Reset Password",
+    "subtitle": "Enter your email address to receive a password reset link",
+    "form": {
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "submit": "Send Reset Link"
+    },
+    "backToLogin": "Back to Login",
+    "text": "Forgot Password?"
+  },
+  "filterOptions": {
+    "filterBy": "Filter by:",
+    "allLocations": "All Locations",
+    "allRatings": "All Ratings",
+    "allPrices": "All Prices",
+    "allCapacities": "All Capacities",
+    "sortBy": "Sort by",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "highestRated": "Highest Rated",
+    "largestCapacity": "Largest Capacity",
+    "lessThan300": "Less than 300 EGP",
+    "range300to600": "300 - 600 EGP",
+    "range600to1000": "600 - 1000 EGP",
+    "moreThan1000": "1000+ EGP",
+    "fourPlusPersons": "4+ Persons",
+    "sixPlusPersons": "6+ Persons",
+    "eightPlusPersons": "8+ Persons",
+    "tenPlusPersons": "10+ Persons",
+    "ratingFourHalf": "4.5+ ★",
+    "ratingFour": "4+ ★",
+    "ratingThree": "3+ ★",
+    "lessThan500": "Less than 500 EGP",
+    "range500to1000": "500 - 1000 EGP",
+    "range1000to2000": "1000 - 2000 EGP",
+    "moreThan2000": "2000+ EGP"
+  },
+  "common": {
+    "loading": "Loading",
+    "error": "An error occurred",
+    "backToHome": "Back to Home",
+    "backToResults": "Back to Results",
+    "availableYachts": "Available Yachts",
+    "availableHotels": "Available Hotels",
+    "perDay": "EGP / day",
+    "perNight": "EGP / night",
+    "more": "more",
+    "retry": "Retry",
+    "description": "Description",
+    "specifications": "Specifications",
+    "capacity": "Capacity",
+    "crew": "Crew",
+    "amenitiesServices": "Amenities & Services",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "bookNow": "Book Now"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "hotelDeletedSuccess": "Hotel deleted successfully",
+    "hotelDeleteFailed": "Failed to delete hotel",
+    "hotelUpdatedSuccess": "Hotel updated successfully",
+    "hotelAddedSuccess": "Hotel added successfully",
+    "yachtDeletedSuccess": "Yacht deleted successfully",
+    "yachtDeleteFailed": "Failed to delete yacht",
+    "yachtUpdatedSuccess": "Yacht updated successfully",
+    "yachtAddedSuccess": "Yacht added successfully",
+    "operationFailed": "Operation failed",
+    "addNewHotel": "Add New Hotel",
+    "editHotel": "Edit Hotel",
+    "saveChanges": "Save Changes",
+    "add": "Add",
+    "hotelName": "Hotel Name",
+    "hotelDescription": "Hotel Description",
+    "hotelImages": "Hotel Images",
+    "addNewYacht": "Add New Yacht",
+    "editYacht": "Edit Yacht",
+    "yachtName": "Yacht Name"
+  },
+  "booking": {
+    "searchHotels": "Search for hotels...",
+    "enterYourName": "Enter your name",
+    "enterYourEmail": "Enter your email",
+    "enterYourPhone": "Enter your phone number",
+    "bookingConfirmed": "Booking Confirmed",
+    "bookingConfirmationMessage": "Thank you! Your booking has been confirmed successfully.",
+    "bookingDetails": "Booking Details",
+    "yacht": "Yacht",
+    "hotel": "Hotel",
+    "location": "Location",
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "guests": "Guests",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "rooms": "Rooms",
+    "fullName": "Full Name",
+    "createNewAccount": "Create New Account",
+    "joinUsAndEnjoy": "Join us and enjoy an amazing travel experience",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "female": "Female",
+    "male": "Male",
+    "createAccount": "Create Account",
+    "passwordMismatch": "Password mismatch",
+    "selectGender": "Please select gender",
+    "passwordTooShort": "Password must be at least 6 characters long",
+    "signupSuccess": "Account created successfully",
+    "signupError": "Error creating account",
+    "creatingAccount": "Creating account...",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "welcomeBack": "Welcome Back",
+    "loginToAccess": "Sign in to access your account",
+    "emailRequired": "Email is required",
+    "invalidEmail": "Invalid email address",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters long",
+    "loginSuccess": "Login successful",
+    "loginError": "Invalid email or password",
+    "loggingIn": "Logging in...",
+    "forgotPassword": "Forgot Password",
+    "noAccount": "Don't have an account?",
+    "backToHome": "Back to Home",
+    "amenities": "Amenities",
+    "filterBy": "Filter by",
+    "allCities": "All Cities",
+    "sortBy": "Sort by",
+    "priceLowToHigh": "Price: Low to High",
+    "priceHighToLow": "Price: High to Low",
+    "topRated": "Top Rated",
+    "capacitySpecs": "Capacity & Specifications:",
+    "person": "person",
+    "persons": "persons",
+    "crew": "crew",
+    "crewMembers": "members",
+    "length": "Length",
+    "pricePerNightEGP": "EGP/night",
+    "pricePerDayEGP": "EGP/day",
+    "notSpecified": "Not specified"
+  },
+  "quality": {
+    "title": "Quality",
+    "description": "We carefully choose partners to ensure top quality in stays and services."
+  },
+  "team": {
+    "title": "Our Team",
+    "member1": {
+      "name": "Ahmed Ali",
+      "position": "CEO",
+      "description": "10+ years of experience in tourism and digital platforms."
+    },
+    "member2": {
+      "name": "Sarah Mohamed",
+      "position": "Operations Manager",
+      "description": "Ensures smooth operations and a comfortable booking experience."
+    },
+    "member3": {
+      "name": "Mohamed Essam",
+      "position": "Head of UX",
+      "description": "Passionate about user-centered design with full localization support."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "+20 123 456 7890",
+    "email": "info@tourism.com",
+    "location": "Cairo, Egypt"
+  },
+  "hotel": {
+    "redirecting": "Redirecting to hotels..."
+  },
+  "yacht": {
+    "redirecting": "Redirecting to yachts..."
+  },
+  "footer": {
+    "aboutWebsite": "About Website",
+    "aboutDescription": "An integrated tourism platform offering the best deals on luxury hotels and yachts in Egypt",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "location": "Cairo, Egypt",
+    "directContact": "Direct Contact",
+    "whatsapp": "WhatsApp",
+    "messenger": "Messenger",
+    "callNow": "Call Now",
+    "allRightsReserved": "All rights reserved for Tourism Website",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "privacy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "subtitle": "We are committed to protecting your privacy and being transparent about how we use your data.",
+      "lastUpdated": "Last updated: Aug 15, 2025"
+    },
+    "intro": {
+      "title": "Introduction",
+      "text": "Welcome to our platform. This policy explains how we collect, use, and protect your personal information when you use our services."
+    },
+    "headings": {
+      "dataTypes": "Data We Collect",
+      "dataTypesIntro": "We may collect the following types of information:",
+      "identityInfo": "Identity Information",
+      "usage": "How We Use Your Information",
+      "principles": "Our Data Protection Principles",
+      "commitments": "Our Commitments to You"
+    },
+    "sections": {
+      "protection": { "title": "Data Protection", "content": "We protect your data using advanced encryption and never share it with third parties without your consent." },
+      "security": { "title": "Information Security", "content": "We apply high security standards using secure servers and strong encryption protocols to prevent unauthorized access." },
+      "transparency": { "title": "Transparency", "content": "You can review, update, or request deletion of your data at any time. We clearly explain how we use your data." },
+      "storage": { "title": "Data Storage", "content": "We retain your data only as long as necessary to provide the service and then delete it securely." },
+      "rights": { "title": "User Rights", "content": "You have the right to access, modify, delete, or request a copy of your data." },
+      "updates": { "title": "Updates", "content": "We may update this policy and will notify you of material changes via email or within the site." }
+    },
+    "dataTypes": {
+      "item1": "Full Name",
+      "item2": "Email Address",
+      "item3": "Phone Number",
+      "item4": "Residential Address",
+      "item5": "Booking Details",
+      "item6": "Travel Preferences"
+    },
+    "dataUsage": {
+      "item1": "Confirm bookings and payments",
+      "item2": "Send booking confirmations and updates",
+      "item3": "Provide customer service and technical support",
+      "item4": "Improve user experience",
+      "item5": "Send promotional offers (with your consent)"
+    },
+    "principles": {
+      "p1": { "title": "Transparency", "description": "We clearly explain how we collect and use your personal data." },
+      "p2": { "title": "Data Minimization", "description": "We only collect the data necessary to provide our services." },
+      "p3": { "title": "Data Protection", "description": "We use modern security measures to protect your information." },
+      "p4": { "title": "Control", "description": "You have full control over your data at any time." },
+      "p5": { "title": "Compliance", "description": "We comply with relevant data protection laws and regulations." }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "intro": "For privacy policy inquiries, contact us via:",
+      "email": "privacy@example.com",
+      "phone": "+1234567890",
+      "address": "Al Madinah Al Munawwarah St., Riyadh, Saudi Arabia"
+    }
+  },
+  "terms": {
+    "hero": {
+      "title": "Terms of Service",
+      "subtitle": "Please read these Terms of Service carefully before using our platform.",
+      "lastUpdated": "Last updated: Aug 15, 2025"
+    },
+    "intro": {
+      "title": "Introduction",
+      "text": "By accessing or using our services, you agree to be bound by these Terms. If you do not agree, please discontinue use immediately."
+    },
+    "acceptance": {
+      "title": "Acceptance of Terms",
+      "content": "By using the services, you confirm that you have read, understood, and agree to these Terms and all related policies."
+    },
+    "userResponsibilities": {
+      "title": "User Responsibilities",
+      "item1": "Provide accurate and up-to-date information when creating an account and making bookings.",
+      "item2": "Do not misuse the platform, attempt unauthorized access, or disrupt services.",
+      "item3": "Comply with all applicable laws and regulations."
+    },
+    "bookings": {
+      "title": "Bookings and Payments",
+      "item1": "All bookings are subject to confirmation. Additional information may be required to complete a booking.",
+      "item2": "Fees or cancellation policies may apply depending on the selected service provider.",
+      "item3": "You are responsible for verifying booking details before submission."
+    },
+    "prohibited": {
+      "title": "Prohibited Uses",
+      "item1": "Any activity that may harm the platform or other users.",
+      "item2": "Data scraping, unauthorized access attempts, or security breaches.",
+      "item3": "Using content for illegal purposes."
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "We are not liable for any indirect, incidental, or consequential damages arising from use of the platform, to the extent permitted by law."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We may update these Terms from time to time. Any changes take effect upon posting on this page."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "intro": "For inquiries related to these Terms, contact us via:",
+      "email": "support@example.com",
+      "phone": "+201234567890"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "We offer luxury hotel and yacht bookings with the best deals and exceptional support"
+    },
+    "stats": {
+      "title": "Numbers we're proud of",
+      "clients": "Happy Clients",
+      "destinations": "Destinations",
+      "rating": "Average Rating",
+      "awards": "Awards & Recognitions"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "We started with a passion to simplify travel in Egypt, offering premium stays and seamless booking for every traveler.",
+      "paragraph2": "We believe every trip should be unforgettable, so we carefully select top hotels and yachts with competitive pricing and 24/7 support.",
+      "imageAlt": "Travel and tourism image"
+    },
+    "values": {
+      "title": "Our Values",
+      "customerCare": {
+        "title": "Customer Care",
+        "description": "Your comfort comes first. We provide fast, helpful support before, during, and after booking."
+      },
+      "security": {
+        "title": "Security & Trust",
+        "description": "Your data is protected and all payments are secured with modern technologies."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We carefully choose partners to ensure top quality in stays and services."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "member1": {
+        "name": "Ahmed Ali",
+        "position": "CEO",
+        "description": "10+ years of experience in tourism and digital platforms."
+      },
+      "member2": {
+        "name": "Sarah Mohamed",
+        "position": "Operations Manager",
+        "description": "Ensures smooth operations and a comfortable booking experience."
+      },
+      "member3": {
+        "name": "Mohamed Essam",
+        "position": "Head of UX",
+        "description": "Passionate about user-centered design with full localization support."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "address": { "title": "Address", "value": "Cairo, Egypt" },
+      "phone": { "title": "Phone", "value": "+20 111 222 3333" },
+      "email": { "title": "Email", "value": "support@example.com" },
+      "hours": { "title": "Working Hours", "value": "Daily 9 AM - 9 PM" }
+    }
+  }
+}
